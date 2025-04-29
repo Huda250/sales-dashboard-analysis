@@ -81,7 +81,7 @@ This project focuses on analyzing a sales dataset to extract key business insigh
 
 - Top 5 Best-Selling Products (horizontal bar chart)
 
--Sales Distribution by City (pie chart)
+- Sales Distribution by City (pie chart)
 
 - Customer Interaction with Coupons (bar chart: clicked, used, not used)
 
@@ -108,9 +108,6 @@ This project focuses on analyzing a sales dataset to extract key business insigh
 - Grand Total Calculation: Handled per row to reflect realistic item-level pricing and fees.
 
 - Coupon Behavior: Limited clarity on exact behavior mapping, so original categories were visualized directly.
-
-- Layout Constraint: Fitting all visualizations in a clean dashboard required prioritizing and organizing for clarity.
-
 
 
 ---
